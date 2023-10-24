@@ -1,0 +1,20 @@
+.button {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 2.5rem;
+    width: 2.5rem;
+    background: #905ef7;
+    border: none;
+}
+
+.arrow-top {
+    font-weight: bold;
+    font-size: 1.45rem;
+    color: white;
+    padding-top: 2px;
+}

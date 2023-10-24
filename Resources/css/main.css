@@ -1,0 +1,99 @@
+h1.sample{
+	color: white;
+	margin: 0 5%;
+}
+
+hr{
+	border: none;
+	height: 2px;
+	background: #905ef7;
+	width: 90%;
+	margin: 0 5%;
+	margin-bottom: 2rem;
+	margin-top: 1rem;
+}
+
+.w3schools{
+	margin: 0 5%;
+	margin-bottom: 1rem;
+	padding: 2.25rem;
+	border: 2px solid #905ef7;
+	border-radius: 0.5rem;
+	display: flex;
+	align-items: center;
+	gap: 3rem;
+	background: black;
+}
+
+.w3schools img{
+	height: 50px;
+}
+
+.w3{
+	color: white;
+	font-weight: 600;
+	font-size: 1.5rem;
+}
+
+.gfg{
+	margin: 0 5%;
+	padding: 2.25rem;
+	border: 2px solid #905ef7;
+	border-radius: 0.5rem;
+	display: flex;
+	align-items: center;
+	gap: 3rem;
+	background: black;
+}
+
+.gfg img{
+	height: 30px;
+}
+
+.gfg-text{
+	color: white;
+	font-weight: 600;
+	font-size: 1.25rem;
+}
+
+.w3schools-text{
+	color: white;
+	font-weight: 600;
+}
+
+.info{
+	margin: 0 5%;
+	margin-top: 1rem;
+}
+
+.w3-info{
+	color: white;
+	font-weight: bold;
+	font-size: 2rem;
+}
+
+.w3-hr{
+	border: none;
+	height: 2px;
+	background: #FFF5EE;
+	width: 100%;
+	margin: 0 0;
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+}
+
+.info{
+	margin-top: 1.75rem;
+	display: flex;
+	align-items: start;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.gfg-info{
+	margin-top: 1.5rem;
+}
+
+.p-text{
+	margin-bottom: 2rem;
+}

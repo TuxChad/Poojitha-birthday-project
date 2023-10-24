@@ -1,0 +1,63 @@
+:root{
+	--margin-bottom: 1rem;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	scroll-behavior: smooth;
+}
+
+h1{
+	color: white;
+	margin: 0 5%;
+	margin-bottom: var(--margin-bottom);
+}
+
+hr{
+	border: none;
+	height: 2px;
+	background: #905ef7;
+	width: 90%;
+	margin: 0 5%;
+	margin-bottom: var(--margin-bottom);
+}
+
+p{
+	color: white;
+	margin: 0 5%;
+	font-size: 1.25rem;
+	font-weight: 400;
+}
+
+ul{
+	margin: 0 9%;
+	margin-top: 1rem;
+}
+
+.li{
+	color: white;
+	list-style: disc;
+	font-weight: bold;
+	font-size: 1.25rem;
+}
+
+.li-text{
+	margin: 0.5rem 0;
+}
+
+.last-talk{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+@media (max-width: 760px){
+  .nav-menu{
+     right: -100%;
+  }
+  .nav-menu.active {
+		right: 0;
+		margin: 0;
+  }
+}
